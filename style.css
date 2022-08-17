@@ -110,6 +110,11 @@ nav a {
   padding-bottom: 50px;
 }
 
+.history {
+  text-align: left;
+  margin-left: 15px;
+}
+
 .page-footer {
   position: absolute;
   left: 0;
