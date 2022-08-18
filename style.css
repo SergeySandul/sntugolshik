@@ -115,6 +115,14 @@ nav a {
   margin-left: 15px;
 }
 
+.news {
+  font-size: 18px;
+}
+
+.contacts {
+  font-size: 18px;
+}
+
 .page-footer {
   position: absolute;
   left: 0;
