@@ -123,6 +123,11 @@ nav a {
   font-size: 18px;
 }
 
+.news p {
+  text-align: left;
+  margin-left: 15px;
+}
+
 .contacts {
   font-size: 18px;
 }
