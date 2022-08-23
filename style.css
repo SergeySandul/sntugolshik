@@ -120,10 +120,11 @@ nav a {
 }
 
 .news {
-  font-size: 16px;
+  font-size: 18px;
 }
 
-.news p {
+.news p, ol {
+  font-size: 16px;
   text-align: left;
   margin-left: 25px;
 }
