@@ -70,7 +70,8 @@ a img:hover {
 }
 
 .page-nav {
-	background: gray; 
+	background: gray;
+  font-size: 22px;
 }
 
 .container {
@@ -159,6 +160,7 @@ nav a {
 }
 
 .footer-email {
+  font-size: 20px;
   padding-left: 30px;
   background-image: url("img/icon-email-footer.svg");
 }
